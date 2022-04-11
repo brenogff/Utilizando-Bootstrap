@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #02CB90;
+}
+
+.quem-sou {
+    background-color: #78cf88;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.formacao {
+    background-color: #499757;
+}
+
+.habilidades {
+    background-color: #406a7a ;
+}
+
+.projetos {
+    background-color: #95bb3c ;
+}
+
+.contatos {
+    background-color: #546d2d ;
+}
+
+.bg-footer {
+    background-color: #193029;
+    color: rgb(207, 178, 167);
+}
